@@ -1,0 +1,38 @@
+2022-12-16 22:43:09 INFO  OrderDepartment:106 - There is no such available building4
+  laba.solvd.exceptions.InvalidKeyException
+	at laba.solvd.departments.OrderDepartment.makeOrder(OrderDepartment.java:104)
+	at laba.solvd.departments.OrderDepartment.open(OrderDepartment.java:40)
+	at laba.solvd.Main.main(Main.java:10)
+2022-12-26 17:44:39 INFO  OrderDepartment:110 - There is no such available building4
+  laba.solvd.exceptions.InvalidKeyException
+	at laba.solvd.departments.OrderDepartment.makeOrder(OrderDepartment.java:108)
+	at laba.solvd.departments.OrderDepartment.open(OrderDepartment.java:37)
+	at laba.solvd.Main.main(Main.java:33)
+2022-12-26 17:46:31 INFO  OrderDepartment:110 - There is no such available building4
+  2022-12-26 17:47:51 INFO  OrderDepartment:110 - There is no such available building 4
+  2023-01-03 17:54:32 INFO  OrderDepartment:111 - There is no such available building with key - 5
+  2023-01-03 17:55:56 INFO  OrderDepartment:111 - There is no such available building with key - 6
+  2023-01-03 17:56:17 INFO  OrderDepartment:111 - There is no such available building with key - 66
+  2023-01-03 17:56:25 INFO  OrderDepartment:111 - There is no such available building with key - 666
+  2023-01-03 18:02:41 INFO  OrderDepartment:111 - There is no such available building with key - 6
+  2023-01-03 18:02:47 INFO  OrderDepartment:111 - There is no such available building with key - 66
+  2023-01-03 18:14:27 ERROR StaffDepartment:108 - 
+  2023-01-03 18:24:38 ERROR StaffDepartment:108 - 
+  2023-01-03 18:25:18 INFO  StaffDepartment:108 - 
+  2023-01-03 18:26:00 INFO  StaffDepartment:108 - Your value is incorrect!54554
+  2023-01-03 18:28:22 INFO  StaffDepartment:108 - 
+  2023-01-03 18:36:00 INFO  StaffDepartment:108 - Your value is incorrect!434343
+  2023-01-03 18:36:26 INFO  StaffDepartment:108 - Your value is incorrect!
+  2023-01-03 18:45:44 INFO  StaffDepartment:108 - Your value is incorrect!
+  2023-01-03 19:00:47 INFO  StaffDepartment:40 - 
+Select an option: 
+ 1 - add new employee, 2 - remove employee, 3 - print employees, 4 - count employee income, 5 - display employee with max salary, 6 - sort employees by salary, 0 - exit
+  2023-01-03 19:00:47 INFO  StaffDepartment:46 - Make your choice: 
+  2023-01-03 19:01:12 INFO  StaffDepartment:110 - Your value is incorrect!
+  2023-01-03 19:01:12 INFO  StaffDepartment:40 - 
+Select an option: 
+ 1 - add new employee, 2 - remove employee, 3 - print employees, 4 - count employee income, 5 - display employee with max salary, 6 - sort employees by salary, 0 - exit
+  2023-01-03 19:01:12 INFO  StaffDepartment:46 - Make your choice: 
+  2023-01-03 19:04:40 INFO  StaffDepartment:107 - Your value is incorrect!
+  2023-01-03 21:52:22 INFO  StaffDepartment:109 - Your value is incorrect!
+  
